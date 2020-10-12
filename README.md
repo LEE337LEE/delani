@@ -5,7 +5,7 @@ Author: Lee Githinji Warui
 This webpage gives detailed information about Delani studios. It shows and hides information when specific icons are clicked. It should have a hover effect on the portfolio and should employ mailChimp API on the contacts to receive emails from clientele.
 
 ## Live link
-live link: https://lee337lee.github.io/delani/
+https://lee337lee.github.io/delani/
 
 ## Behavior Driven Development features should
 Hover over the images on the portfolio section to get a description of each image
